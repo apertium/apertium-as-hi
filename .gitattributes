@@ -1,5 +1,6 @@
 * text=auto !eol
+/Makefile -text
 /apertium-as-hi.as-hi.dix -text
+/apertium-as-hi.as-hi.t1x -text
 /apertium-as-hi.as.dix -text
 /apertium-as-hi.hi.dix -text
-/apertium-as-hi.trules.xml -text
