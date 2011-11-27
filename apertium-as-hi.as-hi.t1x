@@ -13,7 +13,7 @@
 		<def-cat n="v">
 			<cat-item tags="vb.*"/>
 		</def-cat>
-		<def-cat n="number">
+		<def-cat n="num">
 			<cat-item tags="numeral.*"/>
 		</def-cat>
 		<def-cat n="punctuation">
@@ -97,7 +97,7 @@
 		</rule>
 		<rule>
 			<pattern>
-				<pattern-item n="number"/>
+				<pattern-item n="num"/>
 			</pattern>
 			<action><out><lu>
 				<clip pos="1" side="tl" part="whole"/>
