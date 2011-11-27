@@ -1,4 +1,5 @@
 * text=auto !eol
+/ACKNOWLEDGEMENTS.txt -text
 /AUTHORS -text
 /Makefile -text
 /apertium-as-hi.as-hi.dix -text
