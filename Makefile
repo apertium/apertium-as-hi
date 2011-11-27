@@ -8,3 +8,4 @@ all:
 	apertium-validate-transfer apertium-as-hi.as-hi.t1x
 	apertium-preprocess-transfer apertium-as-hi.as-hi.t1x as-hi.t1x.bin
 	apertium-gen-modes modes.xml
+	cp *.mode modes/
