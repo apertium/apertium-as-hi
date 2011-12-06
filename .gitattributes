@@ -4,7 +4,6 @@
 /Makefile -text
 /apertium-as-hi.as-hi.dix -text
 /apertium-as-hi.as-hi.t1x -text
-/apertium-as-hi.as.dix -text
 /apertium-as-hi.hi.dix -text
 /as-hi.prob -text svneol=unset#unset
 /hi-as.prob -text svneol=unset#unset
