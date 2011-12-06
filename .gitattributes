@@ -9,3 +9,6 @@
 /as-hi.prob -text svneol=unset#unset
 /hi-as.prob -text svneol=unset#unset
 /modes.xml -text
+new/apertium-as-hi.as-hi.dix -text
+new/apertium-as-hi.as.dix -text
+new/apertium-as-hi.hi.dix -text
